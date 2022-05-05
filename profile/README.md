@@ -1,4 +1,4 @@
-<img align="center" src="MTG_Youtube_Banniere_Sombre.png" width="100%">
+<img align="center" src="/profile/MTG_Youtube_Banniere_Sombre.png" width="100%">
 
 ## Welcome to the MTG GitHub organization 👋
 
