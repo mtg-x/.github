@@ -1,4 +1,17 @@
-## Hi there 👋
+![](MTG_Youtube_Banniere_Sombre.png)
+## Welcome to the MTG GitHub organization 👋
+
+The MTGs are Microsoft Tech Groups and we gather communities all around France, Belgium and Luxembourg of passionate developers on Microsoft technologies. This organization gather all the necessary tools you will need as a community lead to manage and organize your events and conferences.
+
+## Getting started
+1. Find all the necessary assets to create your community [here](https://github.com/mtg-x/branding-assets)
+2. You can create your own logo [here](https://github.com/mtg-x/logo-generator)
+
+## Create your event website
+You need to build a website for your event but don't have much time to work on it ? Feel free to use the [event template](https://github.com/mtg-x/event-template) to quickly build your website
+
+## Wanna join ? 
+You want to create your MTG Chapter ? Please send an email to devrelfr@microsoft.com and we'll dicuss your project 
 
 <!--
 
