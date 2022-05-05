@@ -1,4 +1,5 @@
-![](MTG_Youtube_Banniere_Sombre.png)
+<img align="center" src="MTG_Youtube_Banniere_Sombre.png" width="100%">
+
 ## Welcome to the MTG GitHub organization 👋
 
 The MTGs are Microsoft Tech Groups and we gather communities all around France, Belgium and Luxembourg of passionate developers on Microsoft technologies. This organization gather all the necessary tools you will need as a community lead to manage and organize your events and conferences.
