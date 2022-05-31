@@ -12,7 +12,7 @@ The MTGs are Microsoft Tech Groups and we gather communities all around France, 
 You need to build a website for your event but don't have much time to work on it ? Feel free to use the [event template](https://github.com/mtg-x/event-template) to quickly build your website.
 
 ## Wanna join ? 
-You want to create your MTG Chapter ? Please send an email to devrelfr@microsoft.com and we'll dicuss your project.
+You want to create your MTG Chapter ? Please send an email to devrelfr@microsoft.com and we'll discuss your project.
 
 <!--
 
